@@ -1,6 +1,6 @@
 # 🌤️ Weather App
 
-A clean and simple iOS weather application built with UIKit and MVVM architecture. Perfect for demonstrating modern iOS development practices.
+A clean and simple iOS weather application built with UIKit and MVVM architecture.
 
 ![iOS](https://img.shields.io/badge/iOS-15.0+-blue.svg)
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
@@ -108,19 +108,6 @@ WeatherApp/
 - Auto Layout constraints
 - SearchBar delegate for city input
 
-## 🎯 Learning Outcomes
-
-This project demonstrates:
-
-✅ MVVM architecture implementation  
-✅ Networking with URLSession  
-✅ JSON parsing with Codable  
-✅ Programmatic UI with Auto Layout  
-✅ Closures and delegation patterns  
-✅ Memory management (weak self)  
-✅ Error handling  
-✅ UserDefaults for persistence  
-✅ Asynchronous programming  
 
 ## 🔮 Future Improvements
 
@@ -143,8 +130,8 @@ https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=m
 ## 👤 Author
 
 **Elbar**
-- GitHub: [@Elbar](https://github.com/Elbar)
-- LinkedIn: [](https://linkedin.com/in/rocketvista)
+- GitHub: [link](https://github.com/Elbar)
+- LinkedIn: [link](https://linkedin.com/in/rocketvista)
 
 ## 📄 License
 
